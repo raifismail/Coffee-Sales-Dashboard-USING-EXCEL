@@ -24,3 +24,13 @@ I have built an interactive dashboard that allows users to explore sales trends,
  Objective: Optimize coffee sales by identifying high-performing customer segments and regions, while improving product offerings and expanding into underperforming markets.
 
   - Increase total sales by 15% in the next quarter.
+
+  - Identify key product trends and customer preferences to improve marketing and inventory strategies.
+
+  - Expand into potential growth regions based on sales trends by country.
+
+## Stakeholders:
+
+  - Sales Managers: To set targets based on regional performance and high-growth areas.
+
+  
