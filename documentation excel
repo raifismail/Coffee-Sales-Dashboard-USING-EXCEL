@@ -1,0 +1,25 @@
+# Data Cleaning Steps:
+
+XLOOKUP Function:
+Used to gather specific data efficiently from related tables for orders and products.
+  
+INDEX MATCH:
+Employed for its flexibility in collecting product data. It ensured accurate data matching, which is critical for understanding sales performance.
+  
+Sales Column:
+Calculated by multiplying unit price by quantity to derive total sales for each transaction.
+  
+Roast Type Column:
+Applied an IF function to categorize coffee roast types, assigning full names such as "rob" = "robusta," "exc" = "excelsa," "ara" = "arabica," and "lib" = "librarica."
+  
+Date Formatting:
+Standardized the date format to "05-sep-2019" for consistency and easier filtering.
+  
+Unit Conversion:
+Converted product size to kilograms (kg) to make it easier for users to understand and compare sizes.
+  
+Currency Conversion:
+Converted unit prices and sales figures to USD for consistent reporting across all regions.
+  
+Duplicate Check:
+Ensured data integrity by checking and removing duplicate entries.
