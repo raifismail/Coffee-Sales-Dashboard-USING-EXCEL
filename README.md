@@ -6,20 +6,6 @@ This project is a comprehensive analysis of coffee sales data, designed to showc
 
 I have built an interactive dashboard that allows users to explore sales trends, top-performing products, and key customers using slicers and timelines. This dashboard is part of my Data Analyst portfolio and demonstrates my expertise in data wrangling, analysis, and visualization.
 
-## Key Features
-
-1. Interactive Dashboard:
-   - Includes total sales over time, sales by country, top customers, and product trends, with dynamic filtering options.
-
-2. Slicers:
-   - For filtering data by coffee size, loyalty card status, and roast type.
-
-3. Timeline Slicer:
-   - Allows analysis of sales data across various time periods, such as months or quarters.
-  
- 4. Data Cleaning and Transformation:
-    -  Handled missing data, duplicates, unit conversion, and formatting to make the dataset suitable for analysis
-
 # Business Task:
  Objective: Optimize coffee sales by identifying high-performing customer segments and regions, while improving product offerings and expanding into underperforming markets.
 
@@ -38,6 +24,32 @@ I have built an interactive dashboard that allows users to explore sales trends,
   - Inventory Managers: To optimize stock based on product demand.
 
   - Finance Team: For revenue tracking and budget forecasting.
+
+## Data preparation Steps for analysis:
+
+1. XLOOKUP Function
+   - Used to gather specific data efficiently from related tables for orders and products.
+
+2. INDEX MATCH
+   - Employed for its flexibility in collecting product data. It ensured accurate data matching, which is critical for understanding sales performance.
+
+3. Sales Column:
+   - Calculated by multiplying unit price by quantity to derive total sales for each transaction.
+
+4. Roast Type Column:
+   - Applied an IF function to categorize coffee roast types, assigning full names such as "rob" = "robusta," "exc" = "excelsa," "ara" = "arabica," and "lib" = "librarica.
+  
+5. Date Formatting:
+   - Standardized the date format to "05-sep-2019" for consistency and easier filtering.
+
+6. Unit Conversion:
+   - Converted product size to kilograms (kg) to make it easier for users to understand and compare sizes.
+  
+7. Currency Conversion:
+   - Converted unit prices and sales figures to USD for consistent reporting across all regions.
+
+8. Duplicate Check
+   - Ensured data integrity by checking and removing duplicate entries
 
 
   
