@@ -52,4 +52,9 @@ I have built an interactive dashboard that allows users to explore sales trends,
    - Ensured data integrity by checking and removing duplicate entries
 
 
+## visualization:
+interactive execel dashboard , you will find it [here]
+https://github.com/raifismail/Coffee-Sales-Dashboard-USING-EXCEL/blob/8a4bbfcbc4028697fff057d565d09233b0534ae1/Screenshot%202024-10-20%20132130.png
+
+
   
