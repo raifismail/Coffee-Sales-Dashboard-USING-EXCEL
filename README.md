@@ -33,4 +33,11 @@ I have built an interactive dashboard that allows users to explore sales trends,
 
   - Sales Managers: To set targets based on regional performance and high-growth areas.
 
+  - Marketing Team: To design campaigns targeting high-value customer segments.
+
+  - Inventory Managers: To optimize stock based on product demand.
+
+  - Finance Team: For revenue tracking and budget forecasting.
+
+
   
