@@ -93,7 +93,7 @@ interactive excel dashboard , you will find it [here](https://github.com/raifism
 
    - Insight: A small segment of customers generates a significant portion of sales.
      
-   - Recommendation: Offer exclusive benefits or incen#tives to these top customers, such as early access to new products or loyalty rewards, to ensure retention and 
+   - Recommendation: Offer exclusive benefits or incentives to these top customers, such as early access to new products or loyalty rewards, to ensure retention and 
      increase repeat purchases.
       
 3. Market Expansion in Underperforming Regions:
