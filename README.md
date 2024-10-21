@@ -93,7 +93,7 @@ interactive execel dashboard , you will find it [here](https://github.com/raifis
 
    - Insight: A small segment of customers generates a significant portion of sales.
      
-   - Recommendation: Offer exclusive benefits or incentives to these top customers, such as early access to new products or loyalty rewards, to ensure retention and 
+   - Recommendation: Offer exclusive benefits or incen#tives to these top customers, such as early access to new products or loyalty rewards, to ensure retention and 
      increase repeat purchases.
       
 3. Market Expansion in Underperforming Regions:
@@ -110,4 +110,19 @@ interactive execel dashboard , you will find it [here](https://github.com/raifis
    - Recommendation: Adjust inventory levels to ensure adequate stock of popular product types, and consider phasing out low-demand options. Additionally, market campaigns 
      should emphasize the most popular sizes and roast types in each region.
 
+## Key Takeaways:
+
+   - Actionable Insights: The dashboard allows stakeholders to make data-driven decisions regarding sales strategies, customer engagement, and product offerings.
+     
+   - Dynamic Exploration: Interactive features make it easy to drill down into specific areas of interest, such as top products, customers, or regions.
+     
+   - Demonstrated Skills: This project showcases my ability to clean, analyze, and visualize data while providing real business value through actionable insights.
+
+## How to Access the Project:
+
+Download the Excel file from this repository [here]
+
+Open the file and navigate to the Dashboard sheet to explore the visualizations.[here]
+
+Use the slicers and timeline to filter data as needed.
   
