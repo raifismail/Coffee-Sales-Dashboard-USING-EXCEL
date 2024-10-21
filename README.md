@@ -120,9 +120,9 @@ interactive execel dashboard , you will find it [here](https://github.com/raifis
 
 ## How to Access the Project:
 
-Download the Excel file from this repository [here]
-
-Open the file and navigate to the Dashboard sheet to explore the visualizations.[here]
+Download the Excel file from this repository [here](https://github.com/raifismail/Coffee-Sales-Dashboard-USING-EXCEL/blob/c3ba97c72eb440e04d58479185b39ec2fdebb5fb/coffeeOrdersData.xlsx)
 
 Use the slicers and timeline to filter data as needed.
+
+
   
