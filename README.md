@@ -57,8 +57,57 @@ interactive execel dashboard , you will find it [here](https://github.com/raifis
 
 ![dashboard excel](https://github.com/raifismail/Coffee-Sales-Dashboard-USING-EXCEL/blob/8a4bbfcbc4028697fff057d565d09233b0534ae1/Screenshot%202024-10-20%20132130.png)
 
+1. Total Sales Over Time (Line Chart):
+    - Purpose: Track sales trends across months and quarters, identifying high-performing and underperforming periods.
+  
+    - Insight: Sales peak during specific months, indicating seasonal demand (e.g., holidays, promotional periods). The company should prepare by boosting inventory and 
+      marketing during these months.
 
+2. Sales by Country (Bar Chart):
+    - Purpose: Compare sales across countries and identify which markets are driving the most revenue.
+  
+    - Insight: Some regions contribute significantly more sales, while others remain underdeveloped. This reveals opportunities for targeted marketing efforts in 
+      underperforming regions and continued expansion in high-growth markets.
 
+3. Top 5 Customers (Bar Chart):
+    - Purpose: Highlight the top customers by revenue, helping to identify high-value accounts.
+      
+    - Insight: A small portion of customers contributes disproportionately to overall sales.
 
+4. Slicers and Timeline:
+    - Purpose: Provide dynamic filtering options to explore data by size, roast type, loyalty card status, and time periods.
+  
+    - Insight: Customer preferences can vary by region and loyalty status. For example, loyalty cardholders may prefer larger sizes or specific roast types.
+  
+
+## Insights and Recommendations:
+
+1. Focus on Seasonal Trends:
+   
+   - Insight: Sales are not uniform throughout the year, peaking during specific months.
+     
+   - Recommendation: Align marketing campaigns, promotional events, and stock levels with these peak periods to maximize sales. Consider launching targeted campaigns during 
+     low-sales months to even out performance.
+
+2. Maximize Revenue from High-Value Customers:
+
+   - Insight: A small segment of customers generates a significant portion of sales.
+     
+   - Recommendation: Offer exclusive benefits or incentives to these top customers, such as early access to new products or loyalty rewards, to ensure retention and 
+     increase repeat purchases.
+      
+3. Market Expansion in Underperforming Regions:
+
+   - Insight: Certain regions are underperforming in terms of sales.
+     
+   - Recommendation: Conduct market research to identify the barriers preventing higher sales in these regions. Tailor marketing campaigns to meet local preferences, and 
+     consider adjusting pricing or introducing new product lines better suited to these markets.
+
+4. Product Popularity by Size and Roast Type:
+
+   - Insight: Sales patterns vary significantly by product size and roast type.
+     
+   - Recommendation: Adjust inventory levels to ensure adequate stock of popular product types, and consider phasing out low-demand options. Additionally, market campaigns 
+     should emphasize the most popular sizes and roast types in each region.
 
   
